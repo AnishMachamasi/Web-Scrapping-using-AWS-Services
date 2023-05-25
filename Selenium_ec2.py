@@ -12,17 +12,17 @@ def lambda_handler(event, context):
     describeInstance = client.describe_instances()
     
     # downloading pem file from S3 
-    s3_client.download_file('macha-key','Macha.pem', '/tmp/machakey.pem')
+    s3_client.download_file('bucket_name_containing_key_pair','key_pair_name.pem', 'new_location: /tmp/new_name.pem')
 
     # reading pem file and creating key object
-    key = paramiko.RSAKey.from_private_key_file("/tmp/machakey.pem")
+    key = paramiko.RSAKey.from_private_key_file("/tmp/new_name.pem")
     # an instance of the Paramiko.SSHClient
     ssh_client = paramiko.SSHClient()
     # setting policy to connect to unknown host
     ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
     # connect using ec2 instance ID if requires
-    ssh_client.connect(hostname="15.206.122.33", username="ubuntu", pkey=key)
+    ssh_client.connect(hostname="Public_DNS_Address of EC2", username="ubuntu", pkey=key)
 
     # command list
     commands = [
