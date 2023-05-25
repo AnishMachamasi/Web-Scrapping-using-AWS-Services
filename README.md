@@ -191,7 +191,7 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
      <hr>
      
      <p align="center">
-       <img width="800" src="./images/lambda_api.png" alt="Material Bread logo">
+       <img width="800" src="./images/lambda_api.PNG" alt="Material Bread logo">
    </p>
 
    - Now, create an API Gateway. In the AWS Management Console, create a new API Gateway. Choose the "REST API" type and provide a name for your API. Inside the API Gateway configuration, define a resource that represents the endpoint for accessing the CSV data. For example, you can create a resource named "csv-data". Within the resource, add a method (i.e. GET) to define how the API will handle requests to that resource. Choose the "Integration type" as "Lambda function" and select the Lambda function you created earlier. Use the "Integration Request Type" as "LAMBDA_PROXY".
@@ -204,7 +204,7 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
    Entire operation works like following diagram.
 
    <p align="center">
-       <img width="800" src="./images/api_execution.png" alt="Material Bread logo">
+       <img width="800" src="./images/api_execution.PNG" alt="Material Bread logo">
    </p>
 
    Note: Remember to add necessary policy to the role that aws lambda automatically creates for you. In this case, add policy that provide read access to the S3.
@@ -215,7 +215,7 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
      <hr>
      
      <p align="center">
-       <img width="800" src="./images/analyse_api.png" alt="Material Bread logo">
+       <img width="800" src="./images/analyse_api.PNG" alt="Material Bread logo">
    </p>
 
    Note: Here the lambda function will save the analyse data to S3 bucket. So, make sure you have created new bucket for this purpose. Then, change the bucket name accordingly in the code.
