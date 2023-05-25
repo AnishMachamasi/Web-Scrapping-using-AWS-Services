@@ -1,0 +1,721 @@
+Country,League,Date,Home_Team,home_team_goal,away_team_goal,Away_Team
+France,Ligue 1,05-08-2022,Lyon,2,1,Ajaccio
+France,Ligue 1,14-08-2022,Ajaccio,0,0,Lens
+France,Ligue 1,21-08-2022,Rennes,2,1,Ajaccio
+France,Ligue 1,26-08-2022,Ajaccio,1,3,Lille
+France,Ligue 1,31-08-2022,Montpellier,2,0,Ajaccio
+France,Ligue 1,04-09-2022,Ajaccio,0,1,Lorient
+France,Ligue 1,11-09-2022,Ajaccio,0,1,Nice
+France,Ligue 1,18-09-2022,Brest,0,1,Ajaccio
+France,Ligue 1,02-10-2022,Ajaccio,1,3,Clermont
+France,Ligue 1,08-10-2022,Marseille,1,2,Ajaccio
+France,Ligue 1,16-10-2022,Troyes,1,1,Ajaccio
+France,Ligue 1,21-10-2022,Ajaccio,0,3,Paris SG
+France,Ligue 1,30-10-2022,Auxerre,1,0,Ajaccio
+France,Ligue 1,05-11-2022,Ajaccio,4,2,Strasbourg
+France,Ligue 1,13-11-2022,Nantes,2,2,Ajaccio
+France,Ligue 1,28-12-2022,Ajaccio,1,0,Angers
+France,Ligue 1,01-01-2023,Toulouse,2,0,Ajaccio
+France,Ligue 1,11-01-2023,Ajaccio,0,1,Reims
+France,Ligue 1,15-01-2023,Monaco,7,1,Ajaccio
+France,Ligue 1,29-01-2023,Ajaccio,0,2,Lyon
+France,Ligue 1,01-02-2023,Angers,1,2,Ajaccio
+France,Ligue 1,05-02-2023,Ajaccio,0,2,Nantes
+France,Ligue 1,10-02-2023,Nice,3,0,Ajaccio
+France,Ligue 1,19-02-2023,Lorient,3,0,Ajaccio
+France,Ligue 1,26-02-2023,Ajaccio,2,1,Troyes
+France,Ligue 1,05-03-2023,Reims,1,0,Ajaccio
+France,Ligue 1,12-03-2023,Ajaccio,0,1,Montpellier
+France,Ligue 1,19-03-2023,Ajaccio,0,2,Monaco
+France,Ligue 1,02-04-2023,Clermont,2,1,Ajaccio
+France,Ligue 1,09-04-2023,Ajaccio,0,3,Auxerre
+France,Ligue 1,16-04-2023,Strasbourg,3,1,Ajaccio
+France,Ligue 1,23-04-2023,Ajaccio,0,0,Brest
+France,Ligue 1,29-04-2023,Lille,3,0,Ajaccio
+France,Ligue 1,07-05-2023,Ajaccio,0,0,Toulouse
+France,Ligue 1,13-05-2023,Paris SG,5,0,Ajaccio
+France,Ligue 1,21-05-2023,Ajaccio,0,5,Rennes
+France,Ligue 1,07-08-2022,Angers,0,0,Nantes
+France,Ligue 1,14-08-2022,Auxerre,2,2,Angers
+France,Ligue 1,21-08-2022,Angers,1,3,Brest
+France,Ligue 1,28-08-2022,Troyes,3,1,Angers
+France,Ligue 1,31-08-2022,Angers,2,4,Reims
+France,Ligue 1,03-09-2022,Lyon,5,0,Angers
+France,Ligue 1,11-09-2022,Angers,2,1,Montpellier
+France,Ligue 1,18-09-2022,Nice,0,1,Angers
+France,Ligue 1,30-09-2022,Angers,0,3,Marseille
+France,Ligue 1,09-10-2022,Angers,2,3,Strasbourg
+France,Ligue 1,16-10-2022,Toulouse,3,2,Angers
+France,Ligue 1,23-10-2022,Angers,1,2,Rennes
+France,Ligue 1,30-10-2022,Monaco,2,0,Angers
+France,Ligue 1,05-11-2022,Angers,1,2,Lens
+France,Ligue 1,13-11-2022,Lille,1,0,Angers
+France,Ligue 1,28-12-2022,Ajaccio,1,0,Angers
+France,Ligue 1,01-01-2023,Angers,1,2,Lorient
+France,Ligue 1,11-01-2023,Paris SG,2,0,Angers
+France,Ligue 1,15-01-2023,Angers,1,2,Clermont
+France,Ligue 1,29-01-2023,Brest,4,0,Angers
+France,Ligue 1,01-02-2023,Angers,1,2,Ajaccio
+France,Ligue 1,05-02-2023,Lorient,0,0,Angers
+France,Ligue 1,12-02-2023,Angers,1,1,Auxerre
+France,Ligue 1,18-02-2023,Strasbourg,2,1,Angers
+France,Ligue 1,25-02-2023,Angers,1,3,Lyon
+France,Ligue 1,05-03-2023,Montpellier,5,0,Angers
+France,Ligue 1,12-03-2023,Angers,0,2,Toulouse
+France,Ligue 1,18-03-2023,Lens,3,0,Angers
+France,Ligue 1,02-04-2023,Angers,1,1,Nice
+France,Ligue 1,08-04-2023,Angers,1,0,Lille
+France,Ligue 1,16-04-2023,Clermont,2,1,Angers
+France,Ligue 1,21-04-2023,Angers,1,2,Paris SG
+France,Ligue 1,30-04-2023,Rennes,4,2,Angers
+France,Ligue 1,07-05-2023,Angers,1,2,Monaco
+France,Ligue 1,14-05-2023,Marseille,3,1,Angers
+France,Ligue 1,21-05-2023,Reims,2,2,Angers
+France,Ligue 1,07-08-2022,Lille,4,1,Auxerre
+France,Ligue 1,14-08-2022,Auxerre,2,2,Angers
+France,Ligue 1,21-08-2022,Montpellier,1,2,Auxerre
+France,Ligue 1,27-08-2022,Auxerre,1,0,Strasbourg
+France,Ligue 1,31-08-2022,Lyon,2,1,Auxerre
+France,Ligue 1,03-09-2022,Auxerre,0,2,Marseille
+France,Ligue 1,11-09-2022,Rennes,5,0,Auxerre
+France,Ligue 1,16-09-2022,Auxerre,1,3,Lorient
+France,Ligue 1,02-10-2022,Auxerre,1,1,Brest
+France,Ligue 1,09-10-2022,Clermont,2,1,Auxerre
+France,Ligue 1,16-10-2022,Auxerre,1,1,Nice
+France,Ligue 1,23-10-2022,Reims,2,1,Auxerre
+France,Ligue 1,30-10-2022,Auxerre,1,0,Ajaccio
+France,Ligue 1,04-11-2022,Troyes,1,1,Auxerre
+France,Ligue 1,13-11-2022,Paris SG,5,0,Auxerre
+France,Ligue 1,28-12-2022,Auxerre,2,3,Monaco
+France,Ligue 1,01-01-2023,Nantes,1,0,Auxerre
+France,Ligue 1,11-01-2023,Auxerre,0,5,Toulouse
+France,Ligue 1,14-01-2023,Lens,1,0,Auxerre
+France,Ligue 1,29-01-2023,Auxerre,0,2,Montpellier
+France,Ligue 1,01-02-2023,Monaco,3,2,Auxerre
+France,Ligue 1,05-02-2023,Auxerre,0,0,Reims
+France,Ligue 1,12-02-2023,Angers,1,1,Auxerre
+France,Ligue 1,17-02-2023,Auxerre,2,1,Lyon
+France,Ligue 1,26-02-2023,Lorient,0,1,Auxerre
+France,Ligue 1,03-03-2023,Nice,1,1,Auxerre
+France,Ligue 1,11-03-2023,Auxerre,0,0,Rennes
+France,Ligue 1,19-03-2023,Strasbourg,2,0,Auxerre
+France,Ligue 1,01-04-2023,Auxerre,1,0,Troyes
+France,Ligue 1,09-04-2023,Ajaccio,0,3,Auxerre
+France,Ligue 1,16-04-2023,Auxerre,2,1,Nantes
+France,Ligue 1,22-04-2023,Auxerre,1,1,Lille
+France,Ligue 1,30-04-2023,Marseille,2,1,Auxerre
+France,Ligue 1,07-05-2023,Auxerre,1,1,Clermont
+France,Ligue 1,14-05-2023,Brest,1,0,Auxerre
+France,Ligue 1,21-05-2023,Auxerre,1,2,Paris SG
+France,Ligue 1,07-08-2022,Lens,3,2,Brest
+France,Ligue 1,14-08-2022,Brest,1,1,Marseille
+France,Ligue 1,21-08-2022,Angers,1,3,Brest
+France,Ligue 1,28-08-2022,Brest,0,7,Montpellier
+France,Ligue 1,31-08-2022,Rennes,3,1,Brest
+France,Ligue 1,04-09-2022,Brest,1,1,Strasbourg
+France,Ligue 1,10-09-2022,Paris SG,1,0,Brest
+France,Ligue 1,18-09-2022,Brest,0,1,Ajaccio
+France,Ligue 1,02-10-2022,Auxerre,1,1,Brest
+France,Ligue 1,09-10-2022,Brest,1,2,Lorient
+France,Ligue 1,16-10-2022,Nantes,4,1,Brest
+France,Ligue 1,23-10-2022,Clermont,1,3,Brest
+France,Ligue 1,30-10-2022,Brest,0,0,Reims
+France,Ligue 1,06-11-2022,Nice,1,0,Brest
+France,Ligue 1,13-11-2022,Brest,2,1,Troyes
+France,Ligue 1,28-12-2022,Brest,2,4,Lyon
+France,Ligue 1,01-01-2023,Monaco,1,0,Brest
+France,Ligue 1,11-01-2023,Brest,0,0,Lille
+France,Ligue 1,15-01-2023,Toulouse,1,1,Brest
+France,Ligue 1,29-01-2023,Brest,4,0,Angers
+France,Ligue 1,01-02-2023,Lyon,0,0,Brest
+France,Ligue 1,05-02-2023,Brest,1,1,Lens
+France,Ligue 1,12-02-2023,Montpellier,3,0,Brest
+France,Ligue 1,19-02-2023,Brest,1,2,Monaco
+France,Ligue 1,24-02-2023,Lille,2,1,Brest
+France,Ligue 1,05-03-2023,Strasbourg,0,1,Brest
+France,Ligue 1,11-03-2023,Brest,1,2,Paris SG
+France,Ligue 1,19-03-2023,Troyes,2,2,Brest
+France,Ligue 1,02-04-2023,Brest,3,1,Toulouse
+France,Ligue 1,09-04-2023,Reims,1,1,Brest
+France,Ligue 1,16-04-2023,Brest,1,0,Nice
+France,Ligue 1,23-04-2023,Ajaccio,0,0,Brest
+France,Ligue 1,03-05-2023,Brest,2,0,Nantes
+France,Ligue 1,07-05-2023,Lorient,2,1,Brest
+France,Ligue 1,14-05-2023,Brest,1,0,Auxerre
+France,Ligue 1,21-05-2023,Brest,2,1,Clermont
+France,Ligue 1,06-08-2022,Clermont,0,5,Paris SG
+France,Ligue 1,14-08-2022,Reims,2,4,Clermont
+France,Ligue 1,21-08-2022,Clermont,1,0,Nice
+France,Ligue 1,28-08-2022,Lorient,2,1,Clermont
+France,Ligue 1,31-08-2022,Marseille,1,0,Clermont
+France,Ligue 1,04-09-2022,Clermont,2,0,Toulouse
+France,Ligue 1,11-09-2022,Strasbourg,0,0,Clermont
+France,Ligue 1,18-09-2022,Clermont,1,3,Troyes
+France,Ligue 1,02-10-2022,Ajaccio,1,3,Clermont
+France,Ligue 1,09-10-2022,Clermont,2,1,Auxerre
+France,Ligue 1,16-10-2022,Monaco,1,1,Clermont
+France,Ligue 1,23-10-2022,Clermont,1,3,Brest
+France,Ligue 1,30-10-2022,Nantes,1,1,Clermont
+France,Ligue 1,06-11-2022,Clermont,1,1,Montpellier
+France,Ligue 1,12-11-2022,Lens,2,1,Clermont
+France,Ligue 1,28-12-2022,Clermont,0,2,Lille
+France,Ligue 1,01-01-2023,Lyon,0,1,Clermont
+France,Ligue 1,11-01-2023,Clermont,2,1,Rennes
+France,Ligue 1,15-01-2023,Angers,1,2,Clermont
+France,Ligue 1,29-01-2023,Clermont,0,0,Nantes
+France,Ligue 1,01-02-2023,Lille,0,0,Clermont
+France,Ligue 1,05-02-2023,Clermont,0,2,Monaco
+France,Ligue 1,11-02-2023,Clermont,0,2,Marseille
+France,Ligue 1,19-02-2023,Rennes,2,0,Clermont
+France,Ligue 1,26-02-2023,Clermont,1,1,Strasbourg
+France,Ligue 1,05-03-2023,Toulouse,0,1,Clermont
+France,Ligue 1,12-03-2023,Clermont,0,4,Lens
+France,Ligue 1,19-03-2023,Montpellier,2,1,Clermont
+France,Ligue 1,02-04-2023,Clermont,2,1,Ajaccio
+France,Ligue 1,09-04-2023,Troyes,0,2,Clermont
+France,Ligue 1,16-04-2023,Clermont,2,1,Angers
+France,Ligue 1,23-04-2023,Nice,1,2,Clermont
+France,Ligue 1,30-04-2023,Clermont,1,0,Reims
+France,Ligue 1,07-05-2023,Auxerre,1,1,Clermont
+France,Ligue 1,14-05-2023,Clermont,2,1,Lyon
+France,Ligue 1,21-05-2023,Brest,2,1,Clermont
+France,Ligue 1,07-08-2022,Lens,3,2,Brest
+France,Ligue 1,14-08-2022,Ajaccio,0,0,Lens
+France,Ligue 1,20-08-2022,Monaco,1,4,Lens
+France,Ligue 1,27-08-2022,Lens,2,1,Rennes
+France,Ligue 1,31-08-2022,Lens,5,2,Lorient
+France,Ligue 1,04-09-2022,Reims,1,1,Lens
+France,Ligue 1,09-09-2022,Lens,1,0,Troyes
+France,Ligue 1,18-09-2022,Nantes,0,0,Lens
+France,Ligue 1,02-10-2022,Lens,1,0,Lyon
+France,Ligue 1,09-10-2022,Lille,1,0,Lens
+France,Ligue 1,15-10-2022,Lens,1,0,Montpellier
+France,Ligue 1,22-10-2022,Marseille,0,1,Lens
+France,Ligue 1,28-10-2022,Lens,3,0,Toulouse
+France,Ligue 1,05-11-2022,Angers,1,2,Lens
+France,Ligue 1,12-11-2022,Lens,2,1,Clermont
+France,Ligue 1,29-12-2022,Nice,0,0,Lens
+France,Ligue 1,01-01-2023,Lens,3,1,Paris SG
+France,Ligue 1,11-01-2023,Strasbourg,2,2,Lens
+France,Ligue 1,14-01-2023,Lens,1,0,Auxerre
+France,Ligue 1,28-01-2023,Troyes,1,1,Lens
+France,Ligue 1,01-02-2023,Lens,0,1,Nice
+France,Ligue 1,05-02-2023,Brest,1,1,Lens
+France,Ligue 1,12-02-2023,Lyon,2,1,Lens
+France,Ligue 1,19-02-2023,Lens,3,1,Nantes
+France,Ligue 1,25-02-2023,Montpellier,1,1,Lens
+France,Ligue 1,04-03-2023,Lens,1,1,Lille
+France,Ligue 1,12-03-2023,Clermont,0,4,Lens
+France,Ligue 1,18-03-2023,Lens,3,0,Angers
+France,Ligue 1,01-04-2023,Rennes,0,1,Lens
+France,Ligue 1,07-04-2023,Lens,2,1,Strasbourg
+France,Ligue 1,15-04-2023,Paris SG,3,1,Lens
+France,Ligue 1,22-04-2023,Lens,3,0,Monaco
+France,Ligue 1,02-05-2023,Toulouse,0,1,Lens
+France,Ligue 1,06-05-2023,Lens,2,1,Marseille
+France,Ligue 1,12-05-2023,Lens,2,1,Reims
+France,Ligue 1,21-05-2023,Lorient,1,3,Lens
+France,Ligue 1,07-08-2022,Lille,4,1,Auxerre
+France,Ligue 1,12-08-2022,Nantes,1,1,Lille
+France,Ligue 1,21-08-2022,Lille,1,7,Paris SG
+France,Ligue 1,26-08-2022,Ajaccio,1,3,Lille
+France,Ligue 1,31-08-2022,Lille,1,2,Nice
+France,Ligue 1,04-09-2022,Montpellier,1,3,Lille
+France,Ligue 1,10-09-2022,Marseille,2,1,Lille
+France,Ligue 1,17-09-2022,Lille,2,1,Toulouse
+France,Ligue 1,02-10-2022,Lorient,2,1,Lille
+France,Ligue 1,09-10-2022,Lille,1,0,Lens
+France,Ligue 1,14-10-2022,Strasbourg,0,3,Lille
+France,Ligue 1,23-10-2022,Lille,4,3,Monaco
+France,Ligue 1,30-10-2022,Lyon,1,0,Lille
+France,Ligue 1,06-11-2022,Lille,1,1,Rennes
+France,Ligue 1,13-11-2022,Lille,1,0,Angers
+France,Ligue 1,28-12-2022,Clermont,0,2,Lille
+France,Ligue 1,02-01-2023,Lille,1,1,Reims
+France,Ligue 1,11-01-2023,Brest,0,0,Lille
+France,Ligue 1,15-01-2023,Lille,5,1,Troyes
+France,Ligue 1,29-01-2023,Nice,1,0,Lille
+France,Ligue 1,01-02-2023,Lille,0,0,Clermont
+France,Ligue 1,04-02-2023,Rennes,1,3,Lille
+France,Ligue 1,12-02-2023,Lille,2,0,Strasbourg
+France,Ligue 1,19-02-2023,Paris SG,4,3,Lille
+France,Ligue 1,24-02-2023,Lille,2,1,Brest
+France,Ligue 1,04-03-2023,Lens,1,1,Lille
+France,Ligue 1,10-03-2023,Lille,3,3,Lyon
+France,Ligue 1,18-03-2023,Toulouse,0,2,Lille
+France,Ligue 1,02-04-2023,Lille,3,1,Lorient
+France,Ligue 1,08-04-2023,Angers,1,0,Lille
+France,Ligue 1,16-04-2023,Lille,2,1,Montpellier
+France,Ligue 1,22-04-2023,Auxerre,1,1,Lille
+France,Ligue 1,29-04-2023,Lille,3,0,Ajaccio
+France,Ligue 1,06-05-2023,Reims,1,0,Lille
+France,Ligue 1,14-05-2023,Monaco,0,0,Lille
+France,Ligue 1,20-05-2023,Lille,2,1,Marseille
+France,Ligue 1,07-08-2022,Rennes,0,1,Lorient
+France,Ligue 1,21-08-2022,Toulouse,2,2,Lorient
+France,Ligue 1,28-08-2022,Lorient,2,1,Clermont
+France,Ligue 1,31-08-2022,Lens,5,2,Lorient
+France,Ligue 1,04-09-2022,Ajaccio,0,1,Lorient
+France,Ligue 1,07-09-2022,Lorient,3,1,Lyon
+France,Ligue 1,11-09-2022,Lorient,3,2,Nantes
+France,Ligue 1,16-09-2022,Auxerre,1,3,Lorient
+France,Ligue 1,02-10-2022,Lorient,2,1,Lille
+France,Ligue 1,09-10-2022,Brest,1,2,Lorient
+France,Ligue 1,15-10-2022,Lorient,0,0,Reims
+France,Ligue 1,23-10-2022,Troyes,2,2,Lorient
+France,Ligue 1,30-10-2022,Lorient,1,2,Nice
+France,Ligue 1,06-11-2022,Lorient,1,2,Paris SG
+France,Ligue 1,13-11-2022,Strasbourg,1,1,Lorient
+France,Ligue 1,29-12-2022,Lorient,0,2,Montpellier
+France,Ligue 1,01-01-2023,Angers,1,2,Lorient
+France,Ligue 1,11-01-2023,Lorient,2,2,Monaco
+France,Ligue 1,14-01-2023,Marseille,3,1,Lorient
+France,Ligue 1,27-01-2023,Lorient,2,1,Rennes
+France,Ligue 1,01-02-2023,Reims,4,2,Lorient
+France,Ligue 1,05-02-2023,Lorient,0,0,Angers
+France,Ligue 1,12-02-2023,Nantes,1,0,Lorient
+France,Ligue 1,19-02-2023,Lorient,3,0,Ajaccio
+France,Ligue 1,26-02-2023,Lorient,0,1,Auxerre
+France,Ligue 1,05-03-2023,Lyon,0,0,Lorient
+France,Ligue 1,12-03-2023,Lorient,2,0,Troyes
+France,Ligue 1,19-03-2023,Nice,1,1,Lorient
+France,Ligue 1,02-04-2023,Lille,3,1,Lorient
+France,Ligue 1,09-04-2023,Lorient,0,0,Marseille
+France,Ligue 1,16-04-2023,Monaco,3,1,Lorient
+France,Ligue 1,23-04-2023,Lorient,0,1,Toulouse
+France,Ligue 1,30-04-2023,Paris SG,1,3,Lorient
+France,Ligue 1,07-05-2023,Lorient,2,1,Brest
+France,Ligue 1,14-05-2023,Montpellier,1,1,Lorient
+France,Ligue 1,21-05-2023,Lorient,1,3,Lens
+France,Ligue 1,05-08-2022,Lyon,2,1,Ajaccio
+France,Ligue 1,19-08-2022,Lyon,4,1,Troyes
+France,Ligue 1,28-08-2022,Reims,1,1,Lyon
+France,Ligue 1,31-08-2022,Lyon,2,1,Auxerre
+France,Ligue 1,03-09-2022,Lyon,5,0,Angers
+France,Ligue 1,07-09-2022,Lorient,3,1,Lyon
+France,Ligue 1,11-09-2022,Monaco,2,1,Lyon
+France,Ligue 1,18-09-2022,Lyon,0,1,Paris SG
+France,Ligue 1,02-10-2022,Lens,1,0,Lyon
+France,Ligue 1,07-10-2022,Lyon,1,1,Toulouse
+France,Ligue 1,16-10-2022,Rennes,3,2,Lyon
+France,Ligue 1,22-10-2022,Montpellier,1,2,Lyon
+France,Ligue 1,30-10-2022,Lyon,1,0,Lille
+France,Ligue 1,06-11-2022,Marseille,1,0,Lyon
+France,Ligue 1,11-11-2022,Lyon,1,1,Nice
+France,Ligue 1,28-12-2022,Brest,2,4,Lyon
+France,Ligue 1,01-01-2023,Lyon,0,1,Clermont
+France,Ligue 1,11-01-2023,Nantes,0,0,Lyon
+France,Ligue 1,14-01-2023,Lyon,1,2,Strasbourg
+France,Ligue 1,29-01-2023,Ajaccio,0,2,Lyon
+France,Ligue 1,01-02-2023,Lyon,0,0,Brest
+France,Ligue 1,04-02-2023,Troyes,1,3,Lyon
+France,Ligue 1,12-02-2023,Lyon,2,1,Lens
+France,Ligue 1,17-02-2023,Auxerre,2,1,Lyon
+France,Ligue 1,25-02-2023,Angers,1,3,Lyon
+France,Ligue 1,05-03-2023,Lyon,0,0,Lorient
+France,Ligue 1,10-03-2023,Lille,3,3,Lyon
+France,Ligue 1,17-03-2023,Lyon,1,1,Nantes
+France,Ligue 1,02-04-2023,Paris SG,0,1,Lyon
+France,Ligue 1,09-04-2023,Lyon,3,1,Rennes
+France,Ligue 1,14-04-2023,Toulouse,1,2,Lyon
+France,Ligue 1,23-04-2023,Lyon,1,2,Marseille
+France,Ligue 1,28-04-2023,Strasbourg,1,2,Lyon
+France,Ligue 1,07-05-2023,Lyon,5,4,Montpellier
+France,Ligue 1,14-05-2023,Clermont,2,1,Lyon
+France,Ligue 1,19-05-2023,Lyon,3,1,Monaco
+France,Ligue 1,07-08-2022,Marseille,4,1,Reims
+France,Ligue 1,14-08-2022,Brest,1,1,Marseille
+France,Ligue 1,20-08-2022,Marseille,2,1,Nantes
+France,Ligue 1,28-08-2022,Nice,0,3,Marseille
+France,Ligue 1,31-08-2022,Marseille,1,0,Clermont
+France,Ligue 1,03-09-2022,Auxerre,0,2,Marseille
+France,Ligue 1,10-09-2022,Marseille,2,1,Lille
+France,Ligue 1,18-09-2022,Marseille,1,1,Rennes
+France,Ligue 1,30-09-2022,Angers,0,3,Marseille
+France,Ligue 1,08-10-2022,Marseille,1,2,Ajaccio
+France,Ligue 1,16-10-2022,Paris SG,1,0,Marseille
+France,Ligue 1,22-10-2022,Marseille,0,1,Lens
+France,Ligue 1,29-10-2022,Strasbourg,2,2,Marseille
+France,Ligue 1,06-11-2022,Marseille,1,0,Lyon
+France,Ligue 1,13-11-2022,Monaco,2,3,Marseille
+France,Ligue 1,29-12-2022,Marseille,6,1,Toulouse
+France,Ligue 1,02-01-2023,Montpellier,1,2,Marseille
+France,Ligue 1,11-01-2023,Troyes,0,2,Marseille
+France,Ligue 1,14-01-2023,Marseille,3,1,Lorient
+France,Ligue 1,28-01-2023,Marseille,1,1,Monaco
+France,Ligue 1,01-02-2023,Nantes,0,2,Marseille
+France,Ligue 1,05-02-2023,Marseille,1,3,Nice
+France,Ligue 1,11-02-2023,Clermont,0,2,Marseille
+France,Ligue 1,19-02-2023,Toulouse,2,3,Marseille
+France,Ligue 1,26-02-2023,Marseille,0,3,Paris SG
+France,Ligue 1,05-03-2023,Rennes,0,1,Marseille
+France,Ligue 1,12-03-2023,Marseille,2,2,Strasbourg
+France,Ligue 1,19-03-2023,Reims,1,2,Marseille
+France,Ligue 1,31-03-2023,Marseille,1,1,Montpellier
+France,Ligue 1,09-04-2023,Lorient,0,0,Marseille
+France,Ligue 1,16-04-2023,Marseille,3,1,Troyes
+France,Ligue 1,23-04-2023,Lyon,1,2,Marseille
+France,Ligue 1,30-04-2023,Marseille,2,1,Auxerre
+France,Ligue 1,06-05-2023,Lens,2,1,Marseille
+France,Ligue 1,14-05-2023,Marseille,3,1,Angers
+France,Ligue 1,20-05-2023,Lille,2,1,Marseille
+France,Ligue 1,06-08-2022,Strasbourg,1,2,Monaco
+France,Ligue 1,13-08-2022,Monaco,1,1,Rennes
+France,Ligue 1,20-08-2022,Monaco,1,4,Lens
+France,Ligue 1,28-08-2022,Paris SG,1,1,Monaco
+France,Ligue 1,31-08-2022,Monaco,2,4,Troyes
+France,Ligue 1,04-09-2022,Nice,0,1,Monaco
+France,Ligue 1,11-09-2022,Monaco,2,1,Lyon
+France,Ligue 1,18-09-2022,Reims,0,3,Monaco
+France,Ligue 1,02-10-2022,Monaco,4,1,Nantes
+France,Ligue 1,09-10-2022,Montpellier,0,2,Monaco
+France,Ligue 1,16-10-2022,Monaco,1,1,Clermont
+France,Ligue 1,23-10-2022,Lille,4,3,Monaco
+France,Ligue 1,30-10-2022,Monaco,2,0,Angers
+France,Ligue 1,06-11-2022,Toulouse,0,2,Monaco
+France,Ligue 1,13-11-2022,Monaco,2,3,Marseille
+France,Ligue 1,28-12-2022,Auxerre,2,3,Monaco
+France,Ligue 1,01-01-2023,Monaco,1,0,Brest
+France,Ligue 1,11-01-2023,Lorient,2,2,Monaco
+France,Ligue 1,15-01-2023,Monaco,7,1,Ajaccio
+France,Ligue 1,28-01-2023,Marseille,1,1,Monaco
+France,Ligue 1,01-02-2023,Monaco,3,2,Auxerre
+France,Ligue 1,05-02-2023,Clermont,0,2,Monaco
+France,Ligue 1,11-02-2023,Monaco,3,1,Paris SG
+France,Ligue 1,19-02-2023,Brest,1,2,Monaco
+France,Ligue 1,26-02-2023,Monaco,0,3,Nice
+France,Ligue 1,05-03-2023,Troyes,2,2,Monaco
+France,Ligue 1,12-03-2023,Monaco,0,1,Reims
+France,Ligue 1,19-03-2023,Ajaccio,0,2,Monaco
+France,Ligue 1,02-04-2023,Monaco,4,3,Strasbourg
+France,Ligue 1,09-04-2023,Nantes,2,2,Monaco
+France,Ligue 1,16-04-2023,Monaco,3,1,Lorient
+France,Ligue 1,22-04-2023,Lens,3,0,Monaco
+France,Ligue 1,30-04-2023,Monaco,0,4,Montpellier
+France,Ligue 1,07-05-2023,Angers,1,2,Monaco
+France,Ligue 1,14-05-2023,Monaco,0,0,Lille
+France,Ligue 1,19-05-2023,Lyon,3,1,Monaco
+France,Ligue 1,07-08-2022,Montpellier,3,2,Troyes
+France,Ligue 1,13-08-2022,Paris SG,5,2,Montpellier
+France,Ligue 1,21-08-2022,Montpellier,1,2,Auxerre
+France,Ligue 1,28-08-2022,Brest,0,7,Montpellier
+France,Ligue 1,31-08-2022,Montpellier,2,0,Ajaccio
+France,Ligue 1,04-09-2022,Montpellier,1,3,Lille
+France,Ligue 1,11-09-2022,Angers,2,1,Montpellier
+France,Ligue 1,17-09-2022,Montpellier,2,1,Strasbourg
+France,Ligue 1,02-10-2022,Toulouse,4,2,Montpellier
+France,Ligue 1,09-10-2022,Montpellier,0,2,Monaco
+France,Ligue 1,15-10-2022,Lens,1,0,Montpellier
+France,Ligue 1,22-10-2022,Montpellier,1,2,Lyon
+France,Ligue 1,30-10-2022,Rennes,3,0,Montpellier
+France,Ligue 1,06-11-2022,Clermont,1,1,Montpellier
+France,Ligue 1,13-11-2022,Montpellier,1,1,Reims
+France,Ligue 1,29-12-2022,Lorient,0,2,Montpellier
+France,Ligue 1,02-01-2023,Montpellier,1,2,Marseille
+France,Ligue 1,11-01-2023,Nice,6,1,Montpellier
+France,Ligue 1,15-01-2023,Montpellier,0,3,Nantes
+France,Ligue 1,29-01-2023,Auxerre,0,2,Montpellier
+France,Ligue 1,01-02-2023,Montpellier,1,3,Paris SG
+France,Ligue 1,05-02-2023,Strasbourg,2,0,Montpellier
+France,Ligue 1,12-02-2023,Montpellier,3,0,Brest
+France,Ligue 1,19-02-2023,Troyes,0,1,Montpellier
+France,Ligue 1,25-02-2023,Montpellier,1,1,Lens
+France,Ligue 1,05-03-2023,Montpellier,5,0,Angers
+France,Ligue 1,12-03-2023,Ajaccio,0,1,Montpellier
+France,Ligue 1,19-03-2023,Montpellier,2,1,Clermont
+France,Ligue 1,31-03-2023,Marseille,1,1,Montpellier
+France,Ligue 1,09-04-2023,Montpellier,1,2,Toulouse
+France,Ligue 1,16-04-2023,Lille,2,1,Montpellier
+France,Ligue 1,23-04-2023,Montpellier,1,0,Rennes
+France,Ligue 1,30-04-2023,Monaco,0,4,Montpellier
+France,Ligue 1,07-05-2023,Lyon,5,4,Montpellier
+France,Ligue 1,14-05-2023,Montpellier,1,1,Lorient
+France,Ligue 1,20-05-2023,Nantes,0,3,Montpellier
+France,Ligue 1,07-08-2022,Angers,0,0,Nantes
+France,Ligue 1,12-08-2022,Nantes,1,1,Lille
+France,Ligue 1,20-08-2022,Marseille,2,1,Nantes
+France,Ligue 1,28-08-2022,Nantes,3,1,Toulouse
+France,Ligue 1,31-08-2022,Strasbourg,1,1,Nantes
+France,Ligue 1,03-09-2022,Nantes,0,3,Paris SG
+France,Ligue 1,11-09-2022,Lorient,3,2,Nantes
+France,Ligue 1,18-09-2022,Nantes,0,0,Lens
+France,Ligue 1,02-10-2022,Monaco,4,1,Nantes
+France,Ligue 1,09-10-2022,Rennes,3,0,Nantes
+France,Ligue 1,16-10-2022,Nantes,4,1,Brest
+France,Ligue 1,23-10-2022,Nice,1,1,Nantes
+France,Ligue 1,30-10-2022,Nantes,1,1,Clermont
+France,Ligue 1,06-11-2022,Reims,1,0,Nantes
+France,Ligue 1,13-11-2022,Nantes,2,2,Ajaccio
+France,Ligue 1,28-12-2022,Troyes,0,0,Nantes
+France,Ligue 1,01-01-2023,Nantes,1,0,Auxerre
+France,Ligue 1,11-01-2023,Nantes,0,0,Lyon
+France,Ligue 1,15-01-2023,Montpellier,0,3,Nantes
+France,Ligue 1,29-01-2023,Clermont,0,0,Nantes
+France,Ligue 1,01-02-2023,Nantes,0,2,Marseille
+France,Ligue 1,05-02-2023,Ajaccio,0,2,Nantes
+France,Ligue 1,12-02-2023,Nantes,1,0,Lorient
+France,Ligue 1,19-02-2023,Lens,3,1,Nantes
+France,Ligue 1,26-02-2023,Nantes,0,1,Rennes
+France,Ligue 1,04-03-2023,Paris SG,4,2,Nantes
+France,Ligue 1,12-03-2023,Nantes,2,2,Nice
+France,Ligue 1,17-03-2023,Lyon,1,1,Nantes
+France,Ligue 1,02-04-2023,Nantes,0,3,Reims
+France,Ligue 1,09-04-2023,Nantes,2,2,Monaco
+France,Ligue 1,16-04-2023,Auxerre,2,1,Nantes
+France,Ligue 1,23-04-2023,Nantes,2,2,Troyes
+France,Ligue 1,03-05-2023,Brest,2,0,Nantes
+France,Ligue 1,07-05-2023,Nantes,0,2,Strasbourg
+France,Ligue 1,14-05-2023,Toulouse,0,0,Nantes
+France,Ligue 1,20-05-2023,Nantes,0,3,Montpellier
+France,Ligue 1,07-08-2022,Toulouse,1,1,Nice
+France,Ligue 1,14-08-2022,Nice,1,1,Strasbourg
+France,Ligue 1,21-08-2022,Clermont,1,0,Nice
+France,Ligue 1,28-08-2022,Nice,0,3,Marseille
+France,Ligue 1,31-08-2022,Lille,1,2,Nice
+France,Ligue 1,04-09-2022,Nice,0,1,Monaco
+France,Ligue 1,11-09-2022,Ajaccio,0,1,Nice
+France,Ligue 1,18-09-2022,Nice,0,1,Angers
+France,Ligue 1,01-10-2022,Paris SG,2,1,Nice
+France,Ligue 1,09-10-2022,Nice,3,2,Troyes
+France,Ligue 1,16-10-2022,Auxerre,1,1,Nice
+France,Ligue 1,23-10-2022,Nice,1,1,Nantes
+France,Ligue 1,30-10-2022,Lorient,1,2,Nice
+France,Ligue 1,06-11-2022,Nice,1,0,Brest
+France,Ligue 1,11-11-2022,Lyon,1,1,Nice
+France,Ligue 1,29-12-2022,Nice,0,0,Lens
+France,Ligue 1,02-01-2023,Rennes,2,1,Nice
+France,Ligue 1,11-01-2023,Nice,6,1,Montpellier
+France,Ligue 1,15-01-2023,Reims,0,0,Nice
+France,Ligue 1,29-01-2023,Nice,1,0,Lille
+France,Ligue 1,01-02-2023,Lens,0,1,Nice
+France,Ligue 1,05-02-2023,Marseille,1,3,Nice
+France,Ligue 1,10-02-2023,Nice,3,0,Ajaccio
+France,Ligue 1,18-02-2023,Nice,0,0,Reims
+France,Ligue 1,26-02-2023,Monaco,0,3,Nice
+France,Ligue 1,03-03-2023,Nice,1,1,Auxerre
+France,Ligue 1,12-03-2023,Nantes,2,2,Nice
+France,Ligue 1,19-03-2023,Nice,1,1,Lorient
+France,Ligue 1,02-04-2023,Angers,1,1,Nice
+France,Ligue 1,08-04-2023,Nice,0,2,Paris SG
+France,Ligue 1,16-04-2023,Brest,1,0,Nice
+France,Ligue 1,23-04-2023,Nice,1,2,Clermont
+France,Ligue 1,30-04-2023,Troyes,0,1,Nice
+France,Ligue 1,06-05-2023,Nice,2,1,Rennes
+France,Ligue 1,13-05-2023,Strasbourg,2,0,Nice
+France,Ligue 1,21-05-2023,Nice,0,0,Toulouse
+France,Ligue 1,06-08-2022,Clermont,0,5,Paris SG
+France,Ligue 1,13-08-2022,Paris SG,5,2,Montpellier
+France,Ligue 1,21-08-2022,Lille,1,7,Paris SG
+France,Ligue 1,28-08-2022,Paris SG,1,1,Monaco
+France,Ligue 1,31-08-2022,Toulouse,0,3,Paris SG
+France,Ligue 1,03-09-2022,Nantes,0,3,Paris SG
+France,Ligue 1,10-09-2022,Paris SG,1,0,Brest
+France,Ligue 1,18-09-2022,Lyon,0,1,Paris SG
+France,Ligue 1,01-10-2022,Paris SG,2,1,Nice
+France,Ligue 1,08-10-2022,Reims,0,0,Paris SG
+France,Ligue 1,16-10-2022,Paris SG,1,0,Marseille
+France,Ligue 1,21-10-2022,Ajaccio,0,3,Paris SG
+France,Ligue 1,29-10-2022,Paris SG,4,3,Troyes
+France,Ligue 1,06-11-2022,Lorient,1,2,Paris SG
+France,Ligue 1,13-11-2022,Paris SG,5,0,Auxerre
+France,Ligue 1,28-12-2022,Paris SG,2,1,Strasbourg
+France,Ligue 1,01-01-2023,Lens,3,1,Paris SG
+France,Ligue 1,11-01-2023,Paris SG,2,0,Angers
+France,Ligue 1,15-01-2023,Rennes,1,0,Paris SG
+France,Ligue 1,29-01-2023,Paris SG,1,1,Reims
+France,Ligue 1,01-02-2023,Montpellier,1,3,Paris SG
+France,Ligue 1,04-02-2023,Paris SG,2,1,Toulouse
+France,Ligue 1,11-02-2023,Monaco,3,1,Paris SG
+France,Ligue 1,19-02-2023,Paris SG,4,3,Lille
+France,Ligue 1,26-02-2023,Marseille,0,3,Paris SG
+France,Ligue 1,04-03-2023,Paris SG,4,2,Nantes
+France,Ligue 1,11-03-2023,Brest,1,2,Paris SG
+France,Ligue 1,19-03-2023,Paris SG,0,2,Rennes
+France,Ligue 1,02-04-2023,Paris SG,0,1,Lyon
+France,Ligue 1,08-04-2023,Nice,0,2,Paris SG
+France,Ligue 1,15-04-2023,Paris SG,3,1,Lens
+France,Ligue 1,21-04-2023,Angers,1,2,Paris SG
+France,Ligue 1,30-04-2023,Paris SG,1,3,Lorient
+France,Ligue 1,07-05-2023,Troyes,1,3,Paris SG
+France,Ligue 1,13-05-2023,Paris SG,5,0,Ajaccio
+France,Ligue 1,21-05-2023,Auxerre,1,2,Paris SG
+France,Ligue 1,07-08-2022,Marseille,4,1,Reims
+France,Ligue 1,14-08-2022,Reims,2,4,Clermont
+France,Ligue 1,21-08-2022,Strasbourg,1,1,Reims
+France,Ligue 1,28-08-2022,Reims,1,1,Lyon
+France,Ligue 1,31-08-2022,Angers,2,4,Reims
+France,Ligue 1,04-09-2022,Reims,1,1,Lens
+France,Ligue 1,11-09-2022,Toulouse,1,0,Reims
+France,Ligue 1,18-09-2022,Reims,0,3,Monaco
+France,Ligue 1,02-10-2022,Troyes,2,2,Reims
+France,Ligue 1,08-10-2022,Reims,0,0,Paris SG
+France,Ligue 1,15-10-2022,Lorient,0,0,Reims
+France,Ligue 1,23-10-2022,Reims,2,1,Auxerre
+France,Ligue 1,30-10-2022,Brest,0,0,Reims
+France,Ligue 1,06-11-2022,Reims,1,0,Nantes
+France,Ligue 1,13-11-2022,Montpellier,1,1,Reims
+France,Ligue 1,29-12-2022,Reims,3,1,Rennes
+France,Ligue 1,02-01-2023,Lille,1,1,Reims
+France,Ligue 1,11-01-2023,Ajaccio,0,1,Reims
+France,Ligue 1,15-01-2023,Reims,0,0,Nice
+France,Ligue 1,29-01-2023,Paris SG,1,1,Reims
+France,Ligue 1,01-02-2023,Reims,4,2,Lorient
+France,Ligue 1,05-02-2023,Auxerre,0,0,Reims
+France,Ligue 1,12-02-2023,Reims,4,0,Troyes
+France,Ligue 1,18-02-2023,Nice,0,0,Reims
+France,Ligue 1,26-02-2023,Reims,3,0,Toulouse
+France,Ligue 1,05-03-2023,Reims,1,0,Ajaccio
+France,Ligue 1,12-03-2023,Monaco,0,1,Reims
+France,Ligue 1,19-03-2023,Reims,1,2,Marseille
+France,Ligue 1,02-04-2023,Nantes,0,3,Reims
+France,Ligue 1,09-04-2023,Reims,1,1,Brest
+France,Ligue 1,15-04-2023,Rennes,3,0,Reims
+France,Ligue 1,23-04-2023,Reims,0,2,Strasbourg
+France,Ligue 1,30-04-2023,Clermont,1,0,Reims
+France,Ligue 1,06-05-2023,Reims,1,0,Lille
+France,Ligue 1,12-05-2023,Lens,2,1,Reims
+France,Ligue 1,21-05-2023,Reims,2,2,Angers
+France,Ligue 1,07-08-2022,Rennes,0,1,Lorient
+France,Ligue 1,13-08-2022,Monaco,1,1,Rennes
+France,Ligue 1,21-08-2022,Rennes,2,1,Ajaccio
+France,Ligue 1,27-08-2022,Lens,2,1,Rennes
+France,Ligue 1,31-08-2022,Rennes,3,1,Brest
+France,Ligue 1,04-09-2022,Troyes,1,1,Rennes
+France,Ligue 1,11-09-2022,Rennes,5,0,Auxerre
+France,Ligue 1,18-09-2022,Marseille,1,1,Rennes
+France,Ligue 1,01-10-2022,Strasbourg,1,3,Rennes
+France,Ligue 1,09-10-2022,Rennes,3,0,Nantes
+France,Ligue 1,16-10-2022,Rennes,3,2,Lyon
+France,Ligue 1,23-10-2022,Angers,1,2,Rennes
+France,Ligue 1,30-10-2022,Rennes,3,0,Montpellier
+France,Ligue 1,06-11-2022,Lille,1,1,Rennes
+France,Ligue 1,12-11-2022,Rennes,2,1,Toulouse
+France,Ligue 1,29-12-2022,Reims,3,1,Rennes
+France,Ligue 1,02-01-2023,Rennes,2,1,Nice
+France,Ligue 1,11-01-2023,Clermont,2,1,Rennes
+France,Ligue 1,15-01-2023,Rennes,1,0,Paris SG
+France,Ligue 1,27-01-2023,Lorient,2,1,Rennes
+France,Ligue 1,01-02-2023,Rennes,3,0,Strasbourg
+France,Ligue 1,04-02-2023,Rennes,1,3,Lille
+France,Ligue 1,12-02-2023,Toulouse,3,1,Rennes
+France,Ligue 1,19-02-2023,Rennes,2,0,Clermont
+France,Ligue 1,26-02-2023,Nantes,0,1,Rennes
+France,Ligue 1,05-03-2023,Rennes,0,1,Marseille
+France,Ligue 1,11-03-2023,Auxerre,0,0,Rennes
+France,Ligue 1,19-03-2023,Paris SG,0,2,Rennes
+France,Ligue 1,01-04-2023,Rennes,0,1,Lens
+France,Ligue 1,09-04-2023,Lyon,3,1,Rennes
+France,Ligue 1,15-04-2023,Rennes,3,0,Reims
+France,Ligue 1,23-04-2023,Montpellier,1,0,Rennes
+France,Ligue 1,30-04-2023,Rennes,4,2,Angers
+France,Ligue 1,06-05-2023,Nice,2,1,Rennes
+France,Ligue 1,14-05-2023,Rennes,4,0,Troyes
+France,Ligue 1,21-05-2023,Ajaccio,0,5,Rennes
+France,Ligue 1,06-08-2022,Strasbourg,1,2,Monaco
+France,Ligue 1,14-08-2022,Nice,1,1,Strasbourg
+France,Ligue 1,21-08-2022,Strasbourg,1,1,Reims
+France,Ligue 1,27-08-2022,Auxerre,1,0,Strasbourg
+France,Ligue 1,31-08-2022,Strasbourg,1,1,Nantes
+France,Ligue 1,04-09-2022,Brest,1,1,Strasbourg
+France,Ligue 1,11-09-2022,Strasbourg,0,0,Clermont
+France,Ligue 1,17-09-2022,Montpellier,2,1,Strasbourg
+France,Ligue 1,01-10-2022,Strasbourg,1,3,Rennes
+France,Ligue 1,09-10-2022,Angers,2,3,Strasbourg
+France,Ligue 1,14-10-2022,Strasbourg,0,3,Lille
+France,Ligue 1,23-10-2022,Toulouse,2,2,Strasbourg
+France,Ligue 1,29-10-2022,Strasbourg,2,2,Marseille
+France,Ligue 1,05-11-2022,Ajaccio,4,2,Strasbourg
+France,Ligue 1,13-11-2022,Strasbourg,1,1,Lorient
+France,Ligue 1,28-12-2022,Paris SG,2,1,Strasbourg
+France,Ligue 1,02-01-2023,Strasbourg,2,3,Troyes
+France,Ligue 1,11-01-2023,Strasbourg,2,2,Lens
+France,Ligue 1,14-01-2023,Lyon,1,2,Strasbourg
+France,Ligue 1,29-01-2023,Strasbourg,1,2,Toulouse
+France,Ligue 1,01-02-2023,Rennes,3,0,Strasbourg
+France,Ligue 1,05-02-2023,Strasbourg,2,0,Montpellier
+France,Ligue 1,12-02-2023,Lille,2,0,Strasbourg
+France,Ligue 1,18-02-2023,Strasbourg,2,1,Angers
+France,Ligue 1,26-02-2023,Clermont,1,1,Strasbourg
+France,Ligue 1,05-03-2023,Strasbourg,0,1,Brest
+France,Ligue 1,12-03-2023,Marseille,2,2,Strasbourg
+France,Ligue 1,19-03-2023,Strasbourg,2,0,Auxerre
+France,Ligue 1,02-04-2023,Monaco,4,3,Strasbourg
+France,Ligue 1,07-04-2023,Lens,2,1,Strasbourg
+France,Ligue 1,16-04-2023,Strasbourg,3,1,Ajaccio
+France,Ligue 1,23-04-2023,Reims,0,2,Strasbourg
+France,Ligue 1,28-04-2023,Strasbourg,1,2,Lyon
+France,Ligue 1,07-05-2023,Nantes,0,2,Strasbourg
+France,Ligue 1,13-05-2023,Strasbourg,2,0,Nice
+France,Ligue 1,21-05-2023,Troyes,1,1,Strasbourg
+France,Ligue 1,07-08-2022,Toulouse,1,1,Nice
+France,Ligue 1,14-08-2022,Troyes,0,3,Toulouse
+France,Ligue 1,21-08-2022,Toulouse,2,2,Lorient
+France,Ligue 1,28-08-2022,Nantes,3,1,Toulouse
+France,Ligue 1,31-08-2022,Toulouse,0,3,Paris SG
+France,Ligue 1,04-09-2022,Clermont,2,0,Toulouse
+France,Ligue 1,11-09-2022,Toulouse,1,0,Reims
+France,Ligue 1,17-09-2022,Lille,2,1,Toulouse
+France,Ligue 1,02-10-2022,Toulouse,4,2,Montpellier
+France,Ligue 1,07-10-2022,Lyon,1,1,Toulouse
+France,Ligue 1,16-10-2022,Toulouse,3,2,Angers
+France,Ligue 1,23-10-2022,Toulouse,2,2,Strasbourg
+France,Ligue 1,28-10-2022,Lens,3,0,Toulouse
+France,Ligue 1,06-11-2022,Toulouse,0,2,Monaco
+France,Ligue 1,12-11-2022,Rennes,2,1,Toulouse
+France,Ligue 1,29-12-2022,Marseille,6,1,Toulouse
+France,Ligue 1,01-01-2023,Toulouse,2,0,Ajaccio
+France,Ligue 1,11-01-2023,Auxerre,0,5,Toulouse
+France,Ligue 1,15-01-2023,Toulouse,1,1,Brest
+France,Ligue 1,29-01-2023,Strasbourg,1,2,Toulouse
+France,Ligue 1,01-02-2023,Toulouse,4,1,Troyes
+France,Ligue 1,04-02-2023,Paris SG,2,1,Toulouse
+France,Ligue 1,12-02-2023,Toulouse,3,1,Rennes
+France,Ligue 1,19-02-2023,Toulouse,2,3,Marseille
+France,Ligue 1,26-02-2023,Reims,3,0,Toulouse
+France,Ligue 1,05-03-2023,Toulouse,0,1,Clermont
+France,Ligue 1,12-03-2023,Angers,0,2,Toulouse
+France,Ligue 1,18-03-2023,Toulouse,0,2,Lille
+France,Ligue 1,02-04-2023,Brest,3,1,Toulouse
+France,Ligue 1,09-04-2023,Montpellier,1,2,Toulouse
+France,Ligue 1,14-04-2023,Toulouse,1,2,Lyon
+France,Ligue 1,23-04-2023,Lorient,0,1,Toulouse
+France,Ligue 1,02-05-2023,Toulouse,0,1,Lens
+France,Ligue 1,07-05-2023,Ajaccio,0,0,Toulouse
+France,Ligue 1,14-05-2023,Toulouse,0,0,Nantes
+France,Ligue 1,21-05-2023,Nice,0,0,Toulouse
+France,Ligue 1,07-08-2022,Montpellier,3,2,Troyes
+France,Ligue 1,14-08-2022,Troyes,0,3,Toulouse
+France,Ligue 1,19-08-2022,Lyon,4,1,Troyes
+France,Ligue 1,28-08-2022,Troyes,3,1,Angers
+France,Ligue 1,31-08-2022,Monaco,2,4,Troyes
+France,Ligue 1,04-09-2022,Troyes,1,1,Rennes
+France,Ligue 1,09-09-2022,Lens,1,0,Troyes
+France,Ligue 1,18-09-2022,Clermont,1,3,Troyes
+France,Ligue 1,02-10-2022,Troyes,2,2,Reims
+France,Ligue 1,09-10-2022,Nice,3,2,Troyes
+France,Ligue 1,16-10-2022,Troyes,1,1,Ajaccio
+France,Ligue 1,23-10-2022,Troyes,2,2,Lorient
+France,Ligue 1,29-10-2022,Paris SG,4,3,Troyes
+France,Ligue 1,04-11-2022,Troyes,1,1,Auxerre
+France,Ligue 1,13-11-2022,Brest,2,1,Troyes
+France,Ligue 1,28-12-2022,Troyes,0,0,Nantes
+France,Ligue 1,02-01-2023,Strasbourg,2,3,Troyes
+France,Ligue 1,11-01-2023,Troyes,0,2,Marseille
+France,Ligue 1,15-01-2023,Lille,5,1,Troyes
+France,Ligue 1,28-01-2023,Troyes,1,1,Lens
+France,Ligue 1,01-02-2023,Toulouse,4,1,Troyes
+France,Ligue 1,04-02-2023,Troyes,1,3,Lyon
+France,Ligue 1,12-02-2023,Reims,4,0,Troyes
+France,Ligue 1,19-02-2023,Troyes,0,1,Montpellier
+France,Ligue 1,26-02-2023,Ajaccio,2,1,Troyes
+France,Ligue 1,05-03-2023,Troyes,2,2,Monaco
+France,Ligue 1,12-03-2023,Lorient,2,0,Troyes
+France,Ligue 1,19-03-2023,Troyes,2,2,Brest
+France,Ligue 1,01-04-2023,Auxerre,1,0,Troyes
+France,Ligue 1,09-04-2023,Troyes,0,2,Clermont
+France,Ligue 1,16-04-2023,Marseille,3,1,Troyes
+France,Ligue 1,23-04-2023,Nantes,2,2,Troyes
+France,Ligue 1,30-04-2023,Troyes,0,1,Nice
+France,Ligue 1,07-05-2023,Troyes,1,3,Paris SG
+France,Ligue 1,14-05-2023,Rennes,4,0,Troyes
+France,Ligue 1,21-05-2023,Troyes,1,1,Strasbourg
