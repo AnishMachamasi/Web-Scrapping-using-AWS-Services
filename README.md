@@ -92,6 +92,7 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
     <br>
 
     In this terminal, install awscli using following command.
+    
     `sudo apt install awscli` 
 
     <br>
@@ -110,12 +111,14 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
 
     Run following command to install Chrome using the offline installer:
 
-    `sudo apt install ./google-chrome-stable_current_amd64.deb
-    sudo apt -f install`
+    `sudo apt install ./google-chrome-stable_current_amd64.deb`
+    
+    `sudo apt -f install`
 
     <br>
 
     Check your google chrome version using:
+    
     `google-chrome --version`
 
     <br>
@@ -129,8 +132,11 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
     Note*: Check your chrome version and download the chrome driver accordingly. In this case, chrome version is 103.0.5060.53.
 
     `sudo apt install unzip`
+    
     `unzip chromedriver_linux64.zip`
+    
     `sudo mv chromedriver /usr/bin/chromedriver`
+    
     `sudo chown root:root /usr/bin/chromedriver`
 
     <br>
@@ -144,19 +150,23 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
     <br>
 
     First of all, install pip3 using following command.
+    
     `sudo apt-get -y install python3-pip`
 
     <br>
 
     Now after installing pip, make sure you hit
+    
     `source ~/.profile`
 
     <br>
 
     Now, install pandas, selenium and boto3. I used selenium version 3.141.0.
 
-    `pip3 install pandas`   
+    `pip3 install pandas`  
+    
     `pip3 install selenium==3.141.0`
+    
     `pip3 install boto3`
 
     <br>
@@ -164,6 +174,7 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
     After that, create a directory named selenium-code.
 
     `mkdir selenium-code`
+    
     `cd selenium-code`
 
     <br>
@@ -267,7 +278,9 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
     - Open your AWS Cloud9 Amazon EC2 environment. Then, install Python 3.8 and pip3 by running the following commands:
 
         `$ sudo amazon-linux-extras install python3.8`
+        
         `$ curl -O https://bootstrap.pypa.io/get-pip.py`
+        
         `$ python3.8 get-pip.py --user`
 
     <br>
