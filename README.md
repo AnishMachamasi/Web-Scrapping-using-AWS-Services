@@ -53,7 +53,7 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
     The crawler data can be represented as below:
 
     <p align="center">
-        <img width="800" src="./images/output.png" alt="Material Bread logo">
+        <img width="800" src="./images/output.PNG" alt="Material Bread logo">
     </p>
 
     <br>
