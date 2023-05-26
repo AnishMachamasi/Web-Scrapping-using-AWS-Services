@@ -196,7 +196,7 @@ Then, I have used AWS Cloudwatch Events to create a rule to trigger/schedule the
     After some time, you will be seeing csv file in your S3 bucket.
     <br>
 
-2. **Create API Endpoint using AWS API Gayeway**
+2. **Create API Endpoint using AWS API Gateway**
 
    - Initially, create a lambda function named `Selenium_api.py` and copy the code from the repo. In the lambda function, change the bucket name according to yours. Select a runtime compatible with your code. In this case, I have used Python 3.10. After that deploy your code. Then click on **Test**. The result you should obtain must be similar to the following:
      <hr>
