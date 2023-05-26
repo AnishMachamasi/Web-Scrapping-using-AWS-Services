@@ -1,6 +1,6 @@
 # Web Scrapping using AWS Services
 
-This project is an automated web scrapping using AWS services. The project is divided into two parts: the first part is the web scrapping and the second part is the data analysis. 
+This project is an automated web scrapping using AWS services. The project is divided into two parts: the first part is the web scrapping and the second part is the data analysis using API and visualization. 
 
 ### Challenge:
 To create a pipeline that
